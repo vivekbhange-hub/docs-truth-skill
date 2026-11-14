@@ -1,0 +1,8 @@
+[project]
+name = "taskpilot"
+version = "2.1.0"
+description = "Run and report on small task files."
+requires-python = ">=3.9"
+
+[project.scripts]
+taskpilot = "taskpilot.cli:main"

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "docs-truth-skill",
+  "description": "Your README is a claim. Check it. Finds documentation that has drifted from the code: dead links, wrong flags, snippets that no longer run, stale versions.",
+  "owner": { "name": "Vivek Bhange", "url": "https://github.com/vivekbhange-hub" },
+  "plugins": [
+    {
+      "name": "docs-truth-skill",
+      "description": "Five skills and two agents that check links and anchors, compare documented CLI flags and environment variables with the code, statically check code snippets and version numbers, merge everything into one prioritised report, and write docs that stay true.",
+      "source": "./",
+      "category": "development",
+      "homepage": "https://github.com/vivekbhange-hub/docs-truth-skill"
+    }
+  ]
+}
