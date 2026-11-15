@@ -2,7 +2,7 @@
   "name": "docs-truth-skill",
   "description": "Find documentation that has drifted from the code: broken links and anchors, CLI flags and environment variables that no longer exist, code snippets that no longer parse or import, and stale version numbers. Static checks only; no doc snippet is ever executed.",
   "version": "1.0.0",
-  "author": { "name": "Vivek Bhange", "url": "https://github.com/vivekbhange-hub" },
+  "author": { "name": "Vivek Bhange", "url": "https://vivekbhange.tech" },
   "homepage": "https://github.com/vivekbhange-hub/docs-truth-skill",
   "repository": "https://github.com/vivekbhange-hub/docs-truth-skill",
   "license": "MIT",

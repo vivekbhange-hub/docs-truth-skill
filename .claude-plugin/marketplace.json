@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "docs-truth-skill",
   "description": "Your README is a claim. Check it. Finds documentation that has drifted from the code: dead links, wrong flags, snippets that no longer run, stale versions.",
-  "owner": { "name": "Vivek Bhange", "url": "https://github.com/vivekbhange-hub" },
+  "owner": { "name": "Vivek Bhange", "url": "https://vivekbhange.tech" },
   "plugins": [
     {
       "name": "docs-truth-skill",
